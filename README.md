@@ -1,1 +1,1 @@
-# This code based django documentation tutorial
+# This code is  based on django documentation tutorial
